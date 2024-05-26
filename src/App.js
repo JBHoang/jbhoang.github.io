@@ -5,10 +5,15 @@ import profileImage from './img/JasonPhoto.JPG'
 function App() {
   return (
     <div className="App">
-      <h1>My React App</h1>
-      <h2>Author: Jason Hoang</h2>
+      <h1>Jason Hoang</h1>
+      
       <img src ={profileImage} alt="profile-image" />
+      <h2> About Me</h2>
+      
+      
     </div>
+
+    
   );
 }
 
