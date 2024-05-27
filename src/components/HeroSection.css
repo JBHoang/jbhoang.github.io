@@ -1,0 +1,37 @@
+.hero-container > h1 {
+    color: #fff;
+    font-size: 12px;
+    margin-top: 250px;
+    margin-left: 250px;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .hero-container > p {
+    color: #fff;
+    font-size: 30px;
+    margin-left: 250px;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .hero-container > p> em {
+    color: #FF0000;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .profile-photo {
+    margin-left: 400px;
+    margin-top: -300px;
+    /* border-style: solid; */
+    border-width: 10px;
+    /* border-image: linear-gradient(45deg, rgb(238, 5, 5), rgb(1, 38, 245)) 1; */
+    box-sizing: border-box;
+  }
+  
