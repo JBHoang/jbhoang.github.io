@@ -5,6 +5,8 @@
     margin-left: 250px;
     text-align: left;
     font-weight: bold;
+ 
+  
   }
 
   .hero-container > p {
@@ -27,11 +29,12 @@
   }
 
   .profile-photo {
-    margin-left: 400px;
+    margin-left: 1000px;
     margin-top: -300px;
-    /* border-style: solid; */
-    border-width: 10px;
-    /* border-image: linear-gradient(45deg, rgb(238, 5, 5), rgb(1, 38, 245)) 1; */
-    box-sizing: border-box;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
   }
   

@@ -45,6 +45,4 @@ body {
 
 .navbar-links li:hover {
     background-color: #555;
-    border-bottom: 4px solid #fff;
-    transition: all 0.2s ease-out; 
 }
