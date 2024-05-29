@@ -10,26 +10,35 @@ body {
 
 .navbar{
     display: flex;
-    justify-content: space-between;
+    width: 100%;
+    height: 60px;
     align-items: center;
+    justify-content: space-between;
     background-color: #1B1212;
     color: white;
+    position: sticky
 }
 
 .name {
     font-size: 30px;
-    margin-left: 25px;
-    margin-top: -15px;
-    margin-bottom: -15px;
+    height: 100px;
+    margin-left: 15px;
     font-weight: bold;
+    position: sticky;
 }
 
+.name > p > em{
+    color: red;
+}
+
+
 .navbar-links ul {
-    margin: 0;
-    padding: 0;
+    height: 50px;
+    align-items: center;
     display: flex;
     font-size: 20px;
     font-weight: bold;
+    position: sticky;
 }
 
 .navbar-links li{
@@ -45,4 +54,4 @@ body {
 
 .navbar-links li:hover {
     background-color: #555;
-}
+} 

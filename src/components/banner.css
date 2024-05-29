@@ -1,0 +1,47 @@
+.banner {
+    display: flex;
+    align-items: center;
+    gap: 75px;
+    justify-content: center;
+    margin-top: 50px;
+    
+  }
+
+.portrait {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  }
+
+.biography > h1 {
+    color: #fff;
+    font-size: 12px;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .biography > p {
+    margin-top: -5px;
+    color: #fff;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .biography > p> em {
+    color: #FF0000;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  /* .profile-photo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  } */
+
+  
+  

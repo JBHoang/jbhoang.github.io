@@ -1,18 +1,17 @@
 import './App.css';
-import HeroSection from './components/HeroSection';
+import NavBar from './components/NavBar';
+import Banner from './components/banner';
 
 function App() {
   return (
     <div className="App">
       
       <>
-      <HeroSection/>
-      </>
-      
+      <NavBar />
+      <Banner/>
+      </>      
       
     </div>
-
-    
   );
 }
 
