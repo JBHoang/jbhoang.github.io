@@ -1,0 +1,27 @@
+.skills{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.mySkills{
+    color: white;
+}
+
+.title{
+    font-size: 50px;
+    margin: 0px;
+}
+
+.grid{
+    display: flex;
+    font-size: 25px;
+    align-items: center;
+    gap: 75px;
+}
+
+.grid li{
+    list-style: none;
+    text-align: left;
+}

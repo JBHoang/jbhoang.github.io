@@ -4,7 +4,6 @@
     gap: 75px;
     justify-content: center;
     margin-top: 50px;
-    
   }
 
 .portrait {
@@ -36,12 +35,3 @@
     text-align: left;
     font-weight: bold;
   }
-
-  /* .profile-photo{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  } */
-
-  
-  

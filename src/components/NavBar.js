@@ -1,4 +1,4 @@
-import '../components/NavBar.css';
+import '../css/NavBar.css';
 
 function Navbar() {
     return (
@@ -7,7 +7,7 @@ function Navbar() {
             <div class="name">
                 <p> Jason <em className='LastName'>Hoang</em></p>
             </div>
-            
+
             <div class="navbar-links">
                 <ul>
                     <li><a href="https://github.com/JBHoang">GitHub</a></li>
@@ -20,7 +20,5 @@ function Navbar() {
         </nav>
     );
 }
-
-
 
 export default Navbar;

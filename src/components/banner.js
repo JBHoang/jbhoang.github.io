@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import './banner.css';
+import '../css/banner.css';
 import profileImage from '../img/JasonPhoto.JPG'
 
 function banner() {
