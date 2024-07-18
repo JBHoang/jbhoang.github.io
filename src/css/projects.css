@@ -24,6 +24,21 @@
     max-height: 450px;
 }
 
+.pong{
+    display: flex;
+    align-items: center;
+    gap: 75px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.pong-logo{
+    height: auto; 
+    width: auto; 
+    max-width: 450px; 
+    max-height: 450px;
+}
+
 .icon-logo{
     height: auto; 
     width: auto; 
@@ -31,7 +46,7 @@
     max-height: 25px;
 }
 
-.asteriods-link ul{
+.project-link ul{
     height: 50px;
     align-items: center;
     display: flex;
@@ -44,18 +59,18 @@
     padding: 10px;
 }
 
-.asteriods-link li{
+.project-link li{
     list-style: none;
     display: flex;
 }
 
-.asteriods-link li a {
+.project-link li a {
     text-decoration: none;
     color: white;
     padding: 1rem;
     display: block;
 }
 
-.asteriods-link li:hover {
+.project-link li:hover {
     background-color: #555;
 } 
