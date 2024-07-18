@@ -1,0 +1,61 @@
+.project{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.myProjects{
+    color: white;
+}
+
+.asteriods{
+    display: flex;
+    align-items: center;
+    gap: 75px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.asteriods-logo{
+    height: auto; 
+    width: auto; 
+    max-width: 450px; 
+    max-height: 450px;
+}
+
+.icon-logo{
+    height: auto; 
+    width: auto; 
+    max-width: 25px; 
+    max-height: 25px;
+}
+
+.asteriods-link ul{
+    height: 50px;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    position: sticky;
+}
+
+.aligned span{
+    padding: 10px;
+}
+
+.asteriods-link li{
+    list-style: none;
+    display: flex;
+}
+
+.asteriods-link li a {
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+    display: block;
+}
+
+.asteriods-link li:hover {
+    background-color: #555;
+} 
