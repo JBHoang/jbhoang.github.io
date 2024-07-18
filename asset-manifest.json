@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.026be25f.css",
-    "main.js": "/static/js/main.0210e6f1.js",
+    "main.css": "/static/css/main.d6fc2b72.css",
+    "main.js": "/static/js/main.9a1b0cc4.js",
     "static/js/453.b75ccc56.chunk.js": "/static/js/453.b75ccc56.chunk.js",
     "static/media/Asteroids_arcade_logo.png": "/static/media/Asteroids_arcade_logo.7d176a9c45a3599076aa.png",
     "static/media/JasonPhoto.JPG": "/static/media/JasonPhoto.841bd7e442d431043f5c.JPG",
+    "static/media/Pong_arcade_logo.png": "/static/media/Pong_arcade_logo.d94e00d55c51de8b83bd.png",
     "static/media/external-link-icon-white.png": "/static/media/external-link-icon-white.d00dbb4ed5db1ddfd421.png",
     "index.html": "/index.html",
-    "main.026be25f.css.map": "/static/css/main.026be25f.css.map",
-    "main.0210e6f1.js.map": "/static/js/main.0210e6f1.js.map",
+    "main.d6fc2b72.css.map": "/static/css/main.d6fc2b72.css.map",
+    "main.9a1b0cc4.js.map": "/static/js/main.9a1b0cc4.js.map",
     "453.b75ccc56.chunk.js.map": "/static/js/453.b75ccc56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.026be25f.css",
-    "static/js/main.0210e6f1.js"
+    "static/css/main.d6fc2b72.css",
+    "static/js/main.9a1b0cc4.js"
   ]
 }
