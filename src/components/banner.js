@@ -19,7 +19,7 @@ function banner() {
                  <br></br>
                  <em>A SFU Computer Science Graduate</em>
                  <br></br>
-                 & Emergency Paramedic
+                 & Software Engineer
                  </p> 
             </div>
          </div>

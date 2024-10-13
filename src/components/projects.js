@@ -1,5 +1,7 @@
 import '../css/projects.css';
+import minesweeperImage from '../img/Minesweeper_logo.png'
 import asteriodsImage from '../img/Asteroids_arcade_logo.png'
+import flappyBirdImage from '../img/Flappy_bird_logo.png'
 import pongImage from '../img/Pong_arcade_logo.png'
 import gitImage from '../img/github-mark-white.png'
 import externalLinkImage from '../img/external-link-icon-white.png'
@@ -13,6 +15,40 @@ function projects() {
 
 
                 <div className="list_projects">  
+
+                <div className='minesweeper'>
+
+                    <div className="minesweeper-photo">
+                        <a href="https://jbhoang.github.io/MinesweeperGame/">
+                            <img className="minesweeper-logo" src ={minesweeperImage} alt="profile-image" />
+                        </a>
+                    </div>
+
+                    <div>
+                        <h1 className="minesweeper-title">Minesweeper - Unity, C#</h1>
+                        <div className='project-link'>
+                            <ul>
+                                <li>
+                                    <a href="https://github.com/JBHoang/Minesweeper">
+                                        <div className='aligned'>
+                                            <img className="icon-logo" src ={gitImage} alt="profile-image" />
+                                            <span>SOURCE</span>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                <a href="https://jbhoang.github.io/MinesweeperGame/">
+                                    <div className='aligned'>
+                                        <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
+                                        <span>DEMO</span>
+                                    </div>
+                                </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
 
                     <div className='asteriods'>
 
@@ -37,6 +73,40 @@ function projects() {
 
                                     <li>
                                     <a href="https://jbhoang.github.io/AsteroidsGame/">
+                                        <div className='aligned'>
+                                            <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
+                                            <span>DEMO</span>
+                                        </div>
+                                    </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='flappyBird'>
+
+                        <div className="flappyBird-photo">
+                            <a href="https://jbhoang.github.io/FlappyBirdGame/">
+                                <img className="flappyBird-logo" src ={flappyBirdImage} alt="profile-image" />
+                            </a>
+                        </div>
+
+                        <div>
+                            <h1 className="flappyBird-title">Flappy Bird - Unity, C#</h1>
+                            <div className='project-link'>
+                                <ul>
+                                    <li>
+                                        <a href="https://github.com/JBHoang/FlappyBird">
+                                            <div className='aligned'>
+                                                <img className="icon-logo" src ={gitImage} alt="profile-image" />
+                                                <span>SOURCE</span>
+                                            </div>
+                                        </a>
+                                    </li>
+
+                                    <li>
+                                    <a href="https://jbhoang.github.io/FlappyBirdGame/">
                                         <div className='aligned'>
                                             <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
                                             <span>DEMO</span>
