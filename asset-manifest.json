@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7135e80b.css",
-    "main.js": "/static/js/main.fb183879.js",
+    "main.js": "/static/js/main.64ba9b64.js",
     "static/js/453.b75ccc56.chunk.js": "/static/js/453.b75ccc56.chunk.js",
     "static/media/JasonPhoto.JPG": "/static/media/JasonPhoto.d5a3e6de198e099fe309.JPG",
     "static/media/Asteroids_arcade_logo.png": "/static/media/Asteroids_arcade_logo.7d176a9c45a3599076aa.png",
@@ -13,11 +13,11 @@
     "static/media/external-link-icon-white.png": "/static/media/external-link-icon-white.d00dbb4ed5db1ddfd421.png",
     "index.html": "/index.html",
     "main.7135e80b.css.map": "/static/css/main.7135e80b.css.map",
-    "main.fb183879.js.map": "/static/js/main.fb183879.js.map",
+    "main.64ba9b64.js.map": "/static/js/main.64ba9b64.js.map",
     "453.b75ccc56.chunk.js.map": "/static/js/453.b75ccc56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7135e80b.css",
-    "static/js/main.fb183879.js"
+    "static/js/main.64ba9b64.js"
   ]
 }
