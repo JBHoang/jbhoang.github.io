@@ -9,6 +9,38 @@
     color: white;
 }
 
+.pacman{
+    display: flex;
+    align-items: center;
+    gap: 75px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.pacman-logo{
+    height: auto; 
+    width: auto; 
+    margin-left: 25px;
+    max-width: 450px; 
+    max-height: 450px;
+}
+
+.donkeykong{
+    display: flex;
+    align-items: center;
+    gap: 75px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.donkeykong-logo{
+    height: auto; 
+    width: auto; 
+    margin-left: 25px;
+    max-width: 450px; 
+    max-height: 450px;
+}
+
 .minesweeper{
     display: flex;
     align-items: center;

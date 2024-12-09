@@ -1,4 +1,6 @@
 import '../css/projects.css';
+import pacmanImage from '../img/Pacman_logo.png'
+import donkeykongImage from '../img/Donkey_Kong_logo.png'
 import minesweeperImage from '../img/Minesweeper_logo.png'
 import asteriodsImage from '../img/Asteroids_arcade_logo.png'
 import flappyBirdImage from '../img/Flappy_bird_logo.png'
@@ -15,6 +17,74 @@ function projects() {
 
 
                 <div className="list_projects">  
+
+                <div className='pacman'>
+
+                    <div className="pacman-photo">
+                        <a href="https://jbhoang.github.io/PacmanGame/">
+                            <img className="pacman-logo" src ={pacmanImage} alt="profile-image" />
+                        </a>
+                    </div>
+
+                    <div>
+                        <h1 className="pacman-title">Pacman - Unity, C#</h1>
+                        <div className='project-link'>
+                            <ul>
+                                <li>
+                                    <a href="https://github.com/JBHoang/Pacman">
+                                        <div className='aligned'>
+                                            <img className="icon-logo" src ={gitImage} alt="profile-image" />
+                                            <span>SOURCE</span>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                <a href="https://jbhoang.github.io/PacmanGame/">
+                                    <div className='aligned'>
+                                        <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
+                                        <span>DEMO</span>
+                                    </div>
+                                </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div className='donkeykong'>
+
+                    <div className="donkeykong-photo">
+                        <a href="https://jbhoang.github.io/DonkeyKongGame/">
+                            <img className="donkeykong-logo" src ={donkeykongImage} alt="profile-image" />
+                        </a>
+                    </div>
+
+                    <div>
+                        <h1 className="donkeykong-title">Donkey Kong - Unity, C#</h1>
+                        <div className='project-link'>
+                            <ul>
+                                <li>
+                                    <a href="https://github.com/JBHoang/DonkeyKong">
+                                        <div className='aligned'>
+                                            <img className="icon-logo" src ={gitImage} alt="profile-image" />
+                                            <span>SOURCE</span>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                <a href="https://jbhoang.github.io/DonkeyKongGame/">
+                                    <div className='aligned'>
+                                        <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
+                                        <span>DEMO</span>
+                                    </div>
+                                </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
 
                 <div className='minesweeper'>
 
