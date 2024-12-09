@@ -21,7 +21,7 @@ function projects() {
                 <div className='pacman'>
 
                     <div className="pacman-photo">
-                        <a href="https://wwww.jbhoang.com/PacmanGame/">
+                        <a href="https://www.jbhoang.com/PacmanGame/">
                             <img className="pacman-logo" src ={pacmanImage} alt="profile-image" />
                         </a>
                     </div>
@@ -40,7 +40,7 @@ function projects() {
                                 </li>
 
                                 <li>
-                                <a href="https://wwww.jbhoang.com/PacmanGame/">
+                                <a href="https://www.jbhoang.com/PacmanGame/">
                                     <div className='aligned'>
                                         <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
                                         <span>DEMO</span>
@@ -55,7 +55,7 @@ function projects() {
                 <div className='donkeykong'>
 
                     <div className="donkeykong-photo">
-                        <a href="https://wwww.jbhoang.com/DonkeyKongGame/">
+                        <a href="https://www.jbhoang.com/DonkeyKongGame/">
                             <img className="donkeykong-logo" src ={donkeykongImage} alt="profile-image" />
                         </a>
                     </div>
@@ -74,7 +74,7 @@ function projects() {
                                 </li>
 
                                 <li>
-                                <a href="https://wwww.jbhoang.com/DonkeyKongGame/">
+                                <a href="https://www.jbhoang.com/DonkeyKongGame/">
                                     <div className='aligned'>
                                         <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
                                         <span>DEMO</span>
@@ -89,7 +89,7 @@ function projects() {
                 <div className='minesweeper'>
 
                     <div className="minesweeper-photo">
-                        <a href="https://wwww.jbhoang.com/MinesweeperGame/">
+                        <a href="https://www.jbhoang.com/MinesweeperGame/">
                             <img className="minesweeper-logo" src ={minesweeperImage} alt="profile-image" />
                         </a>
                     </div>
@@ -108,7 +108,7 @@ function projects() {
                                 </li>
 
                                 <li>
-                                <a href="https://wwww.jbhoang.com/MinesweeperGame/">
+                                <a href="https://www.jbhoang.com/MinesweeperGame/">
                                     <div className='aligned'>
                                         <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
                                         <span>DEMO</span>
@@ -123,7 +123,7 @@ function projects() {
                     <div className='asteriods'>
 
                         <div className="asteriods-photo">
-                            <a href="https://wwww.jbhoang.com/AsteroidsGame/">
+                            <a href="https://www.jbhoang.com/AsteroidsGame/">
                                 <img className="asteriods-logo" src ={asteriodsImage} alt="profile-image" />
                             </a>
                         </div>
@@ -142,7 +142,7 @@ function projects() {
                                     </li>
 
                                     <li>
-                                    <a href="https://wwww.jbhoang.com/AsteroidsGame/">
+                                    <a href="https://www.jbhoang.com/AsteroidsGame/">
                                         <div className='aligned'>
                                             <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
                                             <span>DEMO</span>
@@ -157,7 +157,7 @@ function projects() {
                     <div className='flappyBird'>
 
                         <div className="flappyBird-photo">
-                            <a href="https://wwww.jbhoang.com/FlappyBirdGame/">
+                            <a href="https://www.jbhoang.com/FlappyBirdGame/">
                                 <img className="flappyBird-logo" src ={flappyBirdImage} alt="profile-image" />
                             </a>
                         </div>
@@ -176,7 +176,7 @@ function projects() {
                                     </li>
 
                                     <li>
-                                    <a href="https://wwww.jbhoang.com/FlappyBirdGame/">
+                                    <a href="https://www.jbhoang.com/FlappyBirdGame/">
                                         <div className='aligned'>
                                             <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
                                             <span>DEMO</span>
@@ -191,7 +191,7 @@ function projects() {
                     <div className='pong'>
 
                         <div className="pong-photo">
-                            <a href="https://wwww.jbhoang.com/PongGame/">
+                            <a href="https://www.jbhoang.com/PongGame/">
                                 <img className="pong-logo" src ={pongImage} alt="profile-image" />
                             </a>
                         </div>
@@ -211,7 +211,7 @@ function projects() {
                                     </li>
 
                                     <li>
-                                    <a href="https://wwww.jbhoang.com/PongGame/">
+                                    <a href="https://www.jbhoang.com/PongGame/">
                                         <div className='aligned'>
                                             <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
                                             <span>DEMO</span>
