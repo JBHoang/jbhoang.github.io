@@ -28,7 +28,7 @@ function projects() {
                     </div>
 
                     <div>
-                        <h1 className="tetris-title">Tetris - Unity, C#</h1>
+                        <h1 className="tetris-title">Tetris - Unity, C# </h1>
                         <div className='project-link'>
                             <ul>
                                 <li>
