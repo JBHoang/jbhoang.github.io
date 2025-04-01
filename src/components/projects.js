@@ -1,4 +1,5 @@
 import '../css/projects.css';
+import tetrisImage from '../img/Tetris_logo.png'
 import pacmanImage from '../img/Pacman_logo.png'
 import donkeykongImage from '../img/Donkey_Kong_logo.png'
 import minesweeperImage from '../img/Minesweeper_logo.png'
@@ -17,6 +18,41 @@ function projects() {
 
 
                 <div className="list_projects">  
+
+
+                <div className='tetris'>
+
+                    <div className="tetris-photo">
+                        <a href="https://www.jbhoang.com/TetrisGame/">
+                            <img className="tetris-logo" src ={tetrisImage} alt="profile-image" />
+                        </a>
+                    </div>
+
+                    <div>
+                        <h1 className="tetris-title">Tetris - Unity, C#</h1>
+                        <div className='project-link'>
+                            <ul>
+                                <li>
+                                    <a href="https://github.com/JBHoang/Tetris">
+                                        <div className='aligned'>
+                                            <img className="icon-logo" src ={gitImage} alt="profile-image" />
+                                            <span>SOURCE</span>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                <a href="https://www.jbhoang.com/TetrisGame/">
+                                    <div className='aligned'>
+                                        <img className="icon-logo" src ={externalLinkImage} alt="profile-image" />
+                                        <span>DEMO</span>
+                                    </div>
+                                </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
 
                 <div className='pacman'>
 

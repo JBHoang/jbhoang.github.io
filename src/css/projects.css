@@ -9,6 +9,22 @@
     color: white;
 }
 
+.tetris{
+    display: flex;
+    align-items: center;
+    gap: 75px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.tetris-logo{
+    height: auto; 
+    width: auto; 
+    margin-left: 25px;
+    max-width: 450px; 
+    max-height: 450px;
+}
+
 .pacman{
     display: flex;
     align-items: center;
