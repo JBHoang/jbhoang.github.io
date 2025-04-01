@@ -19,7 +19,6 @@ function projects() {
 
                 <div className="list_projects">  
 
-
                 <div className='tetris'>
 
                     <div className="tetris-photo">
