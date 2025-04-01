@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.7135e80b.css",
-    "main.js": "/static/js/main.64ba9b64.js",
+    "main.css": "/static/css/main.88710054.css",
+    "main.js": "/static/js/main.99ebd797.js",
     "static/js/453.b75ccc56.chunk.js": "/static/js/453.b75ccc56.chunk.js",
     "static/media/JasonPhoto.JPG": "/static/media/JasonPhoto.d5a3e6de198e099fe309.JPG",
+    "static/media/Tetris_logo.png": "/static/media/Tetris_logo.ce409a77096f9980a3e7.png",
     "static/media/Asteroids_arcade_logo.png": "/static/media/Asteroids_arcade_logo.7d176a9c45a3599076aa.png",
     "static/media/Flappy_bird_logo.png": "/static/media/Flappy_bird_logo.7dcde9dedadf9e041494.png",
     "static/media/Pacman_logo.png": "/static/media/Pacman_logo.2c280fbaaab56d37b695.png",
@@ -12,12 +13,12 @@
     "static/media/Pong_arcade_logo.png": "/static/media/Pong_arcade_logo.d94e00d55c51de8b83bd.png",
     "static/media/external-link-icon-white.png": "/static/media/external-link-icon-white.d00dbb4ed5db1ddfd421.png",
     "index.html": "/index.html",
-    "main.7135e80b.css.map": "/static/css/main.7135e80b.css.map",
-    "main.64ba9b64.js.map": "/static/js/main.64ba9b64.js.map",
+    "main.88710054.css.map": "/static/css/main.88710054.css.map",
+    "main.99ebd797.js.map": "/static/js/main.99ebd797.js.map",
     "453.b75ccc56.chunk.js.map": "/static/js/453.b75ccc56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7135e80b.css",
-    "static/js/main.64ba9b64.js"
+    "static/css/main.88710054.css",
+    "static/js/main.99ebd797.js"
   ]
 }
